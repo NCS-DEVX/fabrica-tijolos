@@ -1,0 +1,12 @@
+C:\fabrica-tijolos\src\main\java\com\fabrica\controller\TijoloController.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\repository\TijoloRepository.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\FabricaTijolosApplication.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\dto\RelatorioDTO.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\model\StatusTijolo.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\service\TijoloServiceImpl.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\exception\GlobalExceptionHandler.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\CorsConfig.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\dto\TijoloDTO.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\service\DataLoader.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\service\TijoloService.java
+C:\fabrica-tijolos\src\main\java\com\fabrica\model\Tijolo.java

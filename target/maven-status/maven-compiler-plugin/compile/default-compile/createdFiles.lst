@@ -1,0 +1,14 @@
+com\fabrica\service\TijoloService.class
+com\fabrica\CorsConfig$1.class
+com\fabrica\dto\TijoloDTO.class
+com\fabrica\service\TijoloServiceImpl.class
+com\fabrica\CorsConfig.class
+com\fabrica\controller\TijoloController.class
+com\fabrica\dto\RelatorioDTO.class
+com\fabrica\model\Tijolo$TijoloBuilder.class
+com\fabrica\repository\TijoloRepository.class
+com\fabrica\model\StatusTijolo.class
+com\fabrica\service\DataLoader.class
+com\fabrica\exception\GlobalExceptionHandler.class
+com\fabrica\FabricaTijolosApplication.class
+com\fabrica\model\Tijolo.class
