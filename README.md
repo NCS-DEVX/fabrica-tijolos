@@ -1,5 +1,7 @@
 # 🧱 Fábrica de Tijolos - Desafio Técnico Full Stack
 
+![Capa do Projeto](./cap.png)
+
 Este repositório contém a solução completa para o desafio técnico proposto pela **GRB** para vaga de desenvolvedor full stack. A aplicação simula uma fábrica de tijolos, com funcionalidades completas de CRUD, filtragem, relatório estatístico e execução via Docker.
 
 ---
@@ -41,20 +43,6 @@ Acesse o backend em:
 
 ---
 
-## 💻 Frontend Angular
-
-### 📦 Instalar dependências e rodar o frontend
-
-```bash
-npm install --legacy-peer-deps
-ng serve
-```
-
-> ⚠️ **Obs:** Devido à compatibilidade entre Angular 15 e `angular-notifier`, é necessário usar `--legacy-peer-deps` na instalação. A aplicação funciona normalmente após isso.
-
-Acesse o frontend em:  
-📍 [http://localhost:4200](http://localhost:4200)
-
 ---
 
 ## 📊 Funcionalidades Implementadas
@@ -70,14 +58,6 @@ Acesse o frontend em:
 - Total com defeito
 
 ---
-
-## 🔗 Integração com o Frontend
-
-O frontend Angular consome as rotas REST do backend. Ele permite:
-- Visualizar e filtrar tijolos
-- Criar novo tijolo ou gerar aleatório
-- Alterar status
-- Acessar o relatório estatístico visual
 
 ---
 
@@ -103,6 +83,13 @@ fabrica-tijolos/
 - Uso de `DTO` + Bean Validation com mensagens personalizadas  
 - Testes unitários com JUnit + Mockito para regras de negócio  
 - Documentação limpa e orientada ao avaliador
+
+---
+
+## 🌐 Frontend Angular
+
+Este backend é consumido pelo frontend Angular disponível em:  
+👉 [https://github.com/NCS-DEVX/fabrica-tijolos-frontend](https://github.com/NCS-DEVX/fabrica-tijolos-frontend)
 
 ---
 
