@@ -43,8 +43,6 @@ Acesse o backend em:
 
 ---
 
----
-
 ## 📊 Funcionalidades Implementadas
 
 ✅ Geração automática de 100 tijolos ao iniciar  
@@ -56,8 +54,6 @@ Acesse o backend em:
 - Tijolos por cor e quantidade de furos (pares/ímpares)
 - Totais por status
 - Total com defeito
-
----
 
 ---
 
