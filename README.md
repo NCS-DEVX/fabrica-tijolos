@@ -18,25 +18,23 @@ Este repositório contém a solução completa para o desafio técnico proposto 
 - **Lombok**
 
 ---
+### 🔁 Opção 1 — Rodar localmente com Maven
 
+```bash
+mvn clean package -DskipTests
+java -jar target/fabrica-tijolos-1.0.0.jar
+```
+---
 ## ⚙️ Como Executar o Projeto
 
-### 🐳 Opção 1 — Rodar com Docker (recomendado)
+### 🐳 Opção 2 — Rodar com Docker
 
 > Requer Docker Desktop instalado com WSL 2 ativado.
 
 ```bash
 docker compose up --build
 ```
-
----
-
-### 🔁 Opção 2 — Rodar localmente com Maven (sem Docker)
-
-```bash
-mvn clean package -DskipTests
-java -jar target/fabrica-tijolos-1.0.0.jar
-```
+> ⚠️ **Obs:** Optei por usar Docker no desafio como uma forma de mostrar um diferencial técnico. Com ele, consigo garantir que o ambiente de execução seja o mesmo em qualquer máquina, o que evita erros e facilita a validação.
 
 Acesse o backend em:  
 📍 [http://localhost:8080/tijolos](http://localhost:8080/tijolos)
