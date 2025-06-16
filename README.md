@@ -1,4 +1,4 @@
-# 🧱 Fábrica de Tijolos - Desafio Técnico Full Stack
+# 🧱 Fábrica de Tijolos - Java Spring Boot
 
 ![Capa do Projeto](./cap.png)
 
