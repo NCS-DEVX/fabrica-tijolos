@@ -17,6 +17,8 @@ Este repositório contém a solução completa para o desafio técnico proposto 
 - **JUnit 5 / Mockito**
 - **Lombok**
 
+## ⚙️ Como Executar o Projeto
+
 ---
 ### 🔁 Opção 1 — Rodar localmente com Maven
 
@@ -25,7 +27,6 @@ mvn clean package -DskipTests
 java -jar target/fabrica-tijolos-1.0.0.jar
 ```
 ---
-## ⚙️ Como Executar o Projeto
 
 ### 🐳 Opção 2 — Rodar com Docker
 
